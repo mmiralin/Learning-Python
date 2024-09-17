@@ -22,4 +22,4 @@ print(type([10, 11, 12]))           # Array o Lista
 print(type({'name': 'John Doe'}))   # Diccionario
 print(type({10, 11, 12}))           # Set
 print(type((10, 11, 12)))           # Tupla
-
+print(type(print('Tipo NoneType')));# NoneType
